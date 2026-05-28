@@ -12,4 +12,4 @@ Here are the tools and languages I use:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[LeviYoungL]&show_icons=true&theme=radial)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeviYoungL&show_icons=true&theme=radial)
