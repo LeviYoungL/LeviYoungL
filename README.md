@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Levi！ 👋
 
-<!--
-**LeviYoungL/LeviYoungL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 I’m currently learning English
+- ⚡ Fun fact: I love learning new things!
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+Here are the tools and languages I use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[LeviYoungL]&show_icons=true&theme=radial)
