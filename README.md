@@ -1,8 +1,7 @@
 # Hi there, I'm Levi！ 👋
 
 ### 🚀 About Me
-- 🌱 I’m currently learning English
-- ⚡ Fun fact: I love learning new things!
+- 🌱 I’m currently learning Python！
 
 ### 🛠️ Tech Stack
 Here are the tools and languages I use:
